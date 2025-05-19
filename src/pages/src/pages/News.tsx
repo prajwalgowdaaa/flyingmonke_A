@@ -110,7 +110,7 @@ const News = () => {
             </div>
           </div>
           <div className="mt-16 pt-6 border-t border-gray-200 text-xs text-gray-400">
-            © {new Date().getFullYear()} All rights reserved
+            © flying<span className="font-bold">monké {new Date().getFullYear()} All rights reserved
           </div>
         </div>
       </footer>
