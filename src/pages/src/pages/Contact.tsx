@@ -25,7 +25,7 @@ const Contact = () => {
         <div className="container-custom">
           <div className="w-full h-[400px] mb-12">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999.937309105197!2d10.7355781!3d59.925076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e7913e2a529%3A0xd5c6020eba9c789!2sJosefines%20gate%207%2C%200351%20Oslo%2C%20Norway!5e0!3m2!1sen!2sus!4v1684106249970!5m2!1sen!2sus" 
+              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1223.5667078884168!2d77.54348144678023!3d13.04547702539867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1684106249970!5m2!1sen!2sin" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 
@@ -166,7 +166,7 @@ const Contact = () => {
             </div>
           </div>
           <div className="mt-16 pt-6 border-t border-gray-200 text-xs text-gray-400">
-            © {new Date().getFullYear()} All rights reserved
+            © flyingmonké {new Date().getFullYear()} All rights reserved
           </div>
         </div>
       </footer>

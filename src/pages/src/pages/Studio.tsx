@@ -109,7 +109,7 @@ const Studio = () => {
             </div>
           </div>
           <div className="mt-16 pt-6 border-t border-gray-200 text-xs text-gray-400">
-            © {new Date().getFullYear()} All rights reserved
+            © flyingmonké {new Date().getFullYear()} All rights reserved
           </div>
         </div>
       </footer>
